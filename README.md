@@ -51,8 +51,7 @@ I'm a passionate Full Stack Developer currently pursuing my Bachelor's in Comput
 
 ## 🌱 Currently Learning
 
-- Machine Learning & AI
-- Advanced Data Structures & Algorithms
+- Data Structures & Algorithms
 - Modern Web Development Frameworks
 
 ## 🤝 Let's Collaborate!
