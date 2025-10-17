@@ -39,7 +39,7 @@ I'm a passionate Full Stack Developer currently pursuing my Bachelor's in Comput
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavikaPanwar&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ## 🌱 Currently Learning
