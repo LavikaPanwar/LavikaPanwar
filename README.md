@@ -34,8 +34,8 @@ I'm a passionate Full Stack Developer currently pursuing my Bachelor's in Comput
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LavikaPanwar&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LavikaPanwar&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
