@@ -4,9 +4,9 @@
  
 </center>
 
-<h2>
+<h3>
 I'm a passionate Full Stack Developer currently pursuing my Bachelor's in Computer Application. I thrive on building robust applications and solving complex problems through code. My journey in tech is driven by curiosity and a love for continuous learning.
-</h2>
+</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LavikaPanwar&color=blue)
 
