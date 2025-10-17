@@ -1,7 +1,5 @@
 <center>
- 
  #  Hii 👋 , I am Lavika Panwar
- 
 </center>
 
 <h3>
