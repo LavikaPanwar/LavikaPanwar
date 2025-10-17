@@ -31,6 +31,7 @@ I'm a passionate Full Stack Developer currently pursuing my Bachelor's in Comput
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -55,4 +56,8 @@ I'm always open to collaborating on:
 - DSA Problem Solving
 - Machine Learning Projects
 - Open Source Contributions
+
+## 📫 Connect With Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavikapanwar99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavika-panwar-b8347a299/)
 
