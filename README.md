@@ -12,7 +12,6 @@ I'm a passionate Full Stack Developer currently pursuing my Bachelor's in Comput
 
 - 💻 **Full Stack Developer** with expertise in DBMS, Java, and Networking
 - 🧠 **Problem Solver** who loves tackling DSA challenges
-- 🤖 **Eager Learner** currently diving into Machine Learning
 - 💬 **Communicator** who enjoys collaborating and sharing knowledge
 - 🌱 **Tech Enthusiast** always exploring new technologies
 
@@ -59,7 +58,6 @@ I'm a passionate Full Stack Developer currently pursuing my Bachelor's in Comput
 I'm always open to collaborating on:
 - Full Stack Projects
 - DSA Problem Solving
-- Machine Learning Projects
 - Open Source Contributions
 
 ## 📫 Connect With Me
