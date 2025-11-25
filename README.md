@@ -1,6 +1,6 @@
 <center>
  
- #  Hii 👋 , I am Lavika Panwar
+ #  Hii 👋 , I am Ekta Singh Rathore
  
 </center>
 
